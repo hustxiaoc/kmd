@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 var path = require("path"),
-	parser = require('../lib/kissy2cmd');
+	parser = require('../lib/parser/kissy2cmd');
 
 var basePath = process.cwd(),
 	sourcePath = basePath,
