@@ -3,7 +3,7 @@
 
 
 ## 简介
-k2cmd的升级版
+k2cmd的升级版  
 Translate KISSY Module to CommonJs  Module（kmd）是一个基于NodeJS的KISSY模块转换工具，将以前的KISSY模块转换为1.4支持的cmd规范模块。  
 如以下示例：
 
