@@ -1,6 +1,6 @@
 {
   "name": "kmd",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "kissy  module compiler, k2cmd 升级版",
   "main": "index.js",
   "bin": {
