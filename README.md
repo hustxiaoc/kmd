@@ -5,6 +5,9 @@
 ## 简介
 k2cmd的升级版  
 Translate KISSY Module to CommonJs  Module（kmd）是一个基于NodeJS的KISSY模块转换工具，将以前的KISSY模块转换为1.4支持的cmd规范模块。  
+
+转换的cmd代码请使用gulp-kmc插件打包压缩合并成KISSY模块最后发布上线https://www.npmjs.org/package/gulp-kmc
+
 如以下示例：
 
 ```js
@@ -79,7 +82,7 @@ kmd -h
  -s 源码路径 默认 ./  
  -m 是否压缩  
  -o  是否禁用控制台输出提示信息
- -t 转换类型 cmd类型或kissy类型模块，默认kissy   
+ -t 转换类型 cmd类型或kissy类型模块，默认cmd类型   
 
 ### API文档
 
