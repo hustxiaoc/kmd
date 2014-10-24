@@ -1,14 +1,8 @@
 {
   "name": "kmd",
-  "version": "0.0.10",
-  "description": "kissy  module compiler, k2cmd 升级版",
+  "version": "1.0.3",
+  "description": "kissy  module compiler",
   "main": "index.js",
-  "bin": {
-    "kmd": "bin/index.js"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/hustxiaoc/kmd.git"
@@ -26,13 +20,7 @@
   },
   "homepage": "https://github.com/hustxiaoc/kmd",
   "dependencies": {
-    "cli-color": "^0.3.2",
-    "commander": "^2.2.0",
-    "iconv-lite": "^0.4.3",
-    "mkdirp": "^0.5.0",
-    "uglify-js": "^2.4.13",
-    "underscore": "^1.6.0",
-    "walk": "^2.3.3"
+    "iconv-lite": "^0.4.3"
   },
   "readmeFilename": "README.md"
 }
