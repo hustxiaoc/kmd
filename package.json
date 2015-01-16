@@ -1,6 +1,6 @@
 {
   "name": "kmd",
-  "version": "1.0.20",
+  "version": "1.0.27",
   "description": "kissy  module compiler",
   "main": "index.js",
   "repository": {
